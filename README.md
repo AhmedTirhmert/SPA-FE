@@ -1,4 +1,4 @@
-# drugri
+# Front End (VueJs)
 
 ## Project setup
 ```
